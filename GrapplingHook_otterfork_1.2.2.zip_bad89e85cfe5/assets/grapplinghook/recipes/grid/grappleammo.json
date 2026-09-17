@@ -1,0 +1,32 @@
+[
+  {
+    "ingredientPattern": "I,S",
+    "ingredients": {
+      "I": {
+        "type": "item",
+        "code": "game:arrowhead-*",
+        "name": "metal",
+        "allowedVariants": [
+          "copper",
+          "tinbronze",
+          "bismuthbronze",
+          "blackbronze",
+          "iron",
+          "meteoriciron",
+          "steel"
+        ]
+      },
+      "S": {
+        "type": "item",
+        "code": "game:rope"
+      }
+    },
+    "width": 1,
+    "height": 2,
+    "output": {
+      "type": "item",
+      "code": "grapplinghook:grappleammo-{metal}",
+      "quantity": 1
+    }
+  }
+]

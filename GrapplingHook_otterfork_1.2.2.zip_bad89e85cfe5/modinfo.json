@@ -1,0 +1,12 @@
+{
+    "type": "Code",
+    "modid": "grapplinghookotterfork",
+    "name": "GrapplingHook",
+    "authors": [ "Corewin" ],
+    "contributors": [ "aRTyficial" ],
+    "description": "Grappling Hook going Weeee",
+    "version": "1.2.2",
+    "dependencies": {
+        "game": "1.22.3"
+    }
+}

@@ -1,0 +1,31 @@
+[
+  {
+    "ingredientPattern": "SP",
+    "ingredients": {
+      "S": {
+        "type": "item",
+        "code": "game:stick"
+      },
+      "P": {
+        "type": "item",
+        "code": "game:poundercap-*",
+        "name": "metal",
+        "allowedVariants": [
+          "tinbronze",
+          "bismuthbronze",
+          "blackbronze",
+          "iron",
+          "meteoriciron",
+          "steel"
+        ]
+      }
+    },
+    "width": 2,
+    "height": 1,
+    "output": {
+      "type": "item",
+      "code": "grapplinghook:grapplinghook-{metal}",
+      "quantity": 1
+    }
+  }
+]

@@ -1,0 +1,13 @@
+Grappling Hook - Third-Party Credits
+
+Sound: "Grappling hook"
+Creator: 16bitstudios
+Source: https://freesound.org/people/16bitstudios/sounds/541975/
+Freesound sound ID: 541975
+License: Creative Commons Zero (CC0 1.0 Universal)
+License information: https://creativecommons.org/publicdomain/zero/1.0/
+
+The CC0 license permits copying, modification, distribution, and
+commercial use without requiring permission or attribution. This
+credit is included voluntarily to acknowledge the original creator
+and document the source of the sound.
